@@ -3,8 +3,8 @@ import './App.css';
 import NavBar from './Component/NavBar';
 const profile = {
   image: "./res/IMG_20190401_204533_448.jpg",
-  name: "Ahmed",
-  lastName: "Chayma Jday",
+  name: "Jday",
+  lastName: "Chayma",
   Adresse: {
     city: "Tunis",
     cp: "1001"
